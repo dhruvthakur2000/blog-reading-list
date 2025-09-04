@@ -1,15 +1,5 @@
 # 📚 Blogs Reading List
 
-A curated personal list of blog posts I want to read or save.
-
-## Quick Add Template
-- ⬜ **{Title}** — {Author} — {Year}
-  - Link: {URL}
-  - Found: {YYYY-MM-DD}
-  - Tags: {tag-1}, {tag-2}
-  - Why: {1–2 lines}
-
-## Recent Additions
 
 ## By Topic
 ### Environment / Sustainability
@@ -20,8 +10,5 @@ A curated personal list of blog posts I want to read or save.
     
 ### Machine Learning and AI
    ### Embedding
-- ⬜ **Fine Tuning embedding model for RAG** — Philip Schimd .  
-  - Link: https://www.philschmid.de/fine-tune-embedding-model-for-rag
-  - Found: 2025-09-04  
-  - Tags: embedding model, finetuning, RAG 
+- [⬜ **Fine Tuning embedding model for RAG** — Philip Schimd] (https://www.philschmid.de/fine-tune-embedding-model-for-rag)
 ### Productivity
