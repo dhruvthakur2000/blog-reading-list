@@ -5,3 +5,11 @@
   tags: ["carbon-credits", "india", "afforestation", "process"]
   status: "to-read"
   topic: "environment"
+
+- title: "Fine-Tuning embedding model for RAG"
+  author: "Philip Schimd"
+  url: "https://www.philschmid.de/fine-tune-embedding-model-for-rag"
+  found: "2025-09-04"
+  tags: ["RAG, fine-tuning, embedding model"]
+  status: "to-read"
+  topic: "machine learning and AI"
