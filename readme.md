@@ -19,7 +19,7 @@ A curated personal list of blog posts I want to read or save.
   - Tags: carbon-credits, india, afforestation
     
 ### Machine Learning and AI
-    - ### Embedding
+   ### Embedding
 - ⬜ **Fine Tuning embedding model for RAG** — Philip Schimd .  
   - Link: https://www.philschmid.de/fine-tune-embedding-model-for-rag
   - Found: 2025-09-04  
