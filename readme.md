@@ -7,5 +7,6 @@
     
 ### Machine Learning and AI
    ### Embedding
-[**Fine Tuning embedding model for RAG** — Philip Schimd](https://www.philschmid.de/fine-tune-embedding-model-for-rag)
+-[**Fine Tuning embedding model for RAG** — Philip Schimd](https://www.philschmid.de/fine-tune-embedding-model-for-rag)
+-[**Training and Finetuning Embedding Models with Sentence Transformers v3** - Tom Aarsen](https://huggingface.co/blog/train-sentence-transformers)
 ### Productivity
