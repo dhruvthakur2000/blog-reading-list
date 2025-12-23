@@ -18,21 +18,15 @@
 
 ****
 ### Sessions & State
-- [Stateless vs Stateful Services — AWS Architecture Blog](https://aws.amazon.com/blogs/architecture/stateless-vs-stateful-architecture/)
+- [Stateless vs Stateful Services — ](https://gamberrylabs.medium.com/embracing-unconventionality-stateful-vs-stateless-architectures-a226901c940a)
 - [Managing State in Distributed Systems — Martin Fowler](https://martinfowler.com/articles/managingState.html)
-- [Why Sessions Are Hard — Cloudflare blog](https://blog.cloudflare.com/why-sessions-are-hard/)
 
 ****
 ### Concurrency & Async
 - [Python Asyncio Official Docs](https://docs.python.org/3/library/asyncio.html)
-- [Async is not Parallelism — David Beazley (talk)](https://www.youtube.com/watch?v=MCs5OvgmwTA)
-- [Race Conditions Explained — Computerphile](https://www.youtube.com/watch?v=1X0-8f-EXfI)
 
 ****
 ### Production Thinking (Mindset)
-- [Twelve-Factor App — Heroku](https://12factor.net/)
-- [Designing Data-Intensive Applications — Martin Kleppmann](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491933046/)
-- [You Don't Need Microservices Yet — Sam Newman](https://samnewman.io/blog/2015/04/07/you-wont-need-microservices/)
 
 ****
 ### Productivity
