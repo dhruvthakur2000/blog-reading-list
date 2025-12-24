@@ -15,6 +15,7 @@
 ****
 ### Python
 - [Mastering FastAPI: A Comprehensive Guide and Best Practices](https://technostacks.com/blog/mastering-fastapi-a-comprehensive-guide-and-best-practices/?utm_source=chatgpt.com)
+- [Anatomy Of A Well Organised FastAPI Application](https://medium.com/@balajibal/anatomy-of-a-well-organised-fastapi-application-6482c7c12523)
 
 ****
 ### Sessions & State
