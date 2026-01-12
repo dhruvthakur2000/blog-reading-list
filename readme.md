@@ -23,6 +23,7 @@
 
 ****
 ### Concurrency & Async
+- [Concurrency in Python](https://www.freecodecamp.org/news/concurrency-in-python/)
 - [Python Asyncio Official Docs](https://docs.python.org/3/library/asyncio.html)
 - [Concurrency in python ](https://medium.com/@mansha99/concurrency-in-python-threads-and-locks-8daed86e92e6)
 
