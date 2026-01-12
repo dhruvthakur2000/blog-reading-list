@@ -16,8 +16,6 @@
 ### Python
 - [Mastering FastAPI: A Comprehensive Guide and Best Practices](https://technostacks.com/blog/mastering-fastapi-a-comprehensive-guide-and-best-practices/?utm_source=chatgpt.com)
 - [Anatomy Of A Well Organised FastAPI Application](https://medium.com/@balajibal/anatomy-of-a-well-organised-fastapi-application-6482c7c12523)
-- [Concurrency in python ](https://medium.com/@mansha99/concurrency-in-python-threads-and-locks-8daed86e92e6)
-
 ****
 ### Sessions & State
 - [Stateless vs Stateful Services — ](https://gamberrylabs.medium.com/embracing-unconventionality-stateful-vs-stateless-architectures-a226901c940a)
@@ -26,6 +24,8 @@
 ****
 ### Concurrency & Async
 - [Python Asyncio Official Docs](https://docs.python.org/3/library/asyncio.html)
+- [Concurrency in python ](https://medium.com/@mansha99/concurrency-in-python-threads-and-locks-8daed86e92e6)
+
 
 ****
 ### Production Thinking (Mindset)
