@@ -31,7 +31,7 @@
 ****
 ### VAD
 - [COMPLETE GUIDE TO VAD in 2026 ](https://picovoice.ai/blog/complete-guide-voice-activity-detection-vad/#choosing-a-vad-solution)
-- 
+- [Smart turn detection for Voice AI](https://blog.speechmatics.com/semantic-turn-detection)
 
 
 ****
