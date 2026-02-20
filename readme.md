@@ -20,6 +20,7 @@
 ### Sessions & State
 - [Stateless vs Stateful Services — ](https://gamberrylabs.medium.com/embracing-unconventionality-stateful-vs-stateless-architectures-a226901c940a)
 - [Managing State in Distributed Systems — Martin Fowler](https://martinfowler.com/articles/managingState.html)
+- [Comprehensive guide to Logging...==_must read article_==](https://medium.com/data-science/comprehensive-guide-to-python-logging-in-the-real-world-part-1-8762d5aa76da)
 
 ****
 ### Concurrency & Async
