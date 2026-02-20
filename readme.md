@@ -27,6 +27,8 @@
 - [Python Asyncio Official Docs](https://docs.python.org/3/library/asyncio.html)
 - [Concurrency in python ](https://medium.com/@mansha99/concurrency-in-python-threads-and-locks-8daed86e92e6)
 - [Python's Thread safety](https://realpython.com/python-thread-lock/)
+- [🧵 Processes, Threads, Multithreading, and Concurrency: A Beginner-Friendly Guide to Modern Computing](https://medium.com/@minervaaniket/processes-threads-multithreading-and-concurrency-a-beginner-friendly-guide-to-modern-3e344c1dc4f6)
+- [Mastering Python’s Asyncio: A Practical Guide](https://medium.com/@moraneus/mastering-pythons-asyncio-a-practical-guide-0a673265cf04)
 
 
 ****
