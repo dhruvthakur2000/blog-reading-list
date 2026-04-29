@@ -13,6 +13,9 @@
 - [**Training and Finetuning Embedding Models with Sentence Transformers v3** - Tom Aarsen](https://huggingface.co/blog/train-sentence-transformers)
 
 ****
+###LLMS
+- [LLM Inference](https://medium.com/learnwithnk/from-prompt-to-response-unpacking-the-magic-of-llm-inference-e7d611e07e29)
+****
 ### Python
 - [Mastering FastAPI: A Comprehensive Guide and Best Practices](https://technostacks.com/blog/mastering-fastapi-a-comprehensive-guide-and-best-practices/?utm_source=chatgpt.com)
 - [Anatomy Of A Well Organised FastAPI Application](https://medium.com/@balajibal/anatomy-of-a-well-organised-fastapi-application-6482c7c12523)
