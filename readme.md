@@ -15,6 +15,7 @@
 ****
 ###LLMS
 - [LLM Inference](https://medium.com/learnwithnk/from-prompt-to-response-unpacking-the-magic-of-llm-inference-e7d611e07e29)
+- [llm inference best practices](https://www.databricks.com/blog/llm-inference-performance-engineering-best-practices)
 ****
 ### Python
 - [Mastering FastAPI: A Comprehensive Guide and Best Practices](https://technostacks.com/blog/mastering-fastapi-a-comprehensive-guide-and-best-practices/?utm_source=chatgpt.com)
